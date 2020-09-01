@@ -1,0 +1,46 @@
+manufacturer: HPE
+model: ProLiant e910 
+slug: ProLiant-e910 
+u_height: 1
+is_full_depth: true
+subdevice_role: child
+interfaces:
+  - name: FLM1 
+    type: 1000base-t
+    mgmt_only: true
+  - name: FLM2
+    type: 1000base-t
+    mgmt_only: true
+  - name: Interconnect3, Q1:1
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q1:2 
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q1:3
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q1:4 
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q5:1
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q5:2
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q5:3
+    type: 16gfc-sfpp
+  - name: Interconnect3, Q5:4
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q1:1
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q1:2
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q1:3
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q1:4
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q5:1
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q5:2
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q5:3
+    type: 16gfc-sfpp
+  - name: Interconnect6, Q5:4
+    type: 16gfc-sfpp
+  
