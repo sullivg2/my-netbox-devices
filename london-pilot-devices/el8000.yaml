@@ -10,12 +10,12 @@ console-ports:
 - name: mgmt01
   type: rj-45
 power-ports:
-- name: 48VDC Power Supply Kit
-  type: ''
+- name: PS1
+  type: P11291-B21
   maximum_draw: 1500
   allocated_draw: null
-- name: 48VDC Power Supply Kit01
-  type: ''
+- name: PS2
+  type: P11291-B21
   maximum_draw: 1500
   allocated_draw: null
 device-bays:
