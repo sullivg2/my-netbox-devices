@@ -1,0 +1,25 @@
+manufacturer: HPE
+model: EL8000 5U CTO Front Cabling Chassis
+slug: el8000-5u-cto-front-cabling-chassis
+part_number: P12379-B21
+u_height: 5
+is_full_depth: false
+subdevice_role: parent
+comments: ''
+console-ports:
+- name: mgmt01
+  type: rj-45
+power-ports:
+- name: 48VDC Power Supply Kit
+  type: ''
+  maximum_draw: 1500
+  allocated_draw: null
+- name: 48VDC Power Supply Kit01
+  type: ''
+  maximum_draw: 1500
+  allocated_draw: null
+device-bays:
+- name: bay01
+- name: bay02
+- name: bay03
+- name: bay04
